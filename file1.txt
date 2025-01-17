@@ -1,1 +1,2 @@
 this is normal text file
+this is line 2 
